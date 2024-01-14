@@ -6,4 +6,5 @@
 
 ## 2023
 
-- 第 0 期：[创刊号](docs/issue-0.md)
+- 第 0 期：[创刊号| 以长期主义观察世界](docs/issue-00.md)
+- 第 1 期：[纽约时报 vs OpenAI，新时代的版权之争](docs/issue-01.md)
